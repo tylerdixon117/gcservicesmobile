@@ -1,0 +1,73 @@
+
+.html
+{
+    font-family: 'Barlow Semi Condensed', sans-serif;
+}
+
+#header-text
+{
+    font-size: 1.5rem;
+}
+
+.bold
+{
+    font-weight: bold;
+}
+
+.parallax1
+{
+    background-image: url("../backyardpicmed.jpg");
+    height: 15rem;
+    background-position: 65% 35%;
+    
+}
+
+.par-span
+{
+    display: flex;
+    justify-content: center;
+    padding-top: 5rem;
+    font-size: 2rem;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+}
+
+
+.parallax1
+{
+    background-image: url("../backyardpicmed.jpg");
+    height: 15rem;
+    background-position: 65% 35%;
+    background-attachment: fixed;
+}
+
+#lowered
+{
+    padding-top: 1rem;
+    padding-left: 1rem;
+}
+
+/*
+
+#smaller
+{
+    font-size: .8rem;
+    width: 12rem;
+    
+}
+
+#spaced
+{
+    padding-left: 1rem;
+}
+
+@media(max-width: 250px)
+{
+    #header-text
+    {
+    font-size: 1rem;
+    overflow-x: hidden;
+    }
+
+
+}
+*/
